@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608789332 source:c:\users\mac\documents\programs\c programs\exercise questions\exercise  questions chapter1\x y or origin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
